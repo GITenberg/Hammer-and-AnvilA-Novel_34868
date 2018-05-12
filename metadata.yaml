@@ -1,0 +1,34 @@
+_repo: Hammer-and-AnvilA-Novel_34868
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Browne, William Hand
+    birthdate: 1828
+    deathdate: 1912
+    gutenberg_agent_id: '37287'
+    url: http://www.gutenberg.org/2009/agents/37287
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spielhagen, Friedrich
+    birthdate: 1829
+    deathdate: 1911
+    gutenberg_agent_id: '37099'
+    url: http://www.gutenberg.org/2009/agents/37099
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_von_Spielhagen
+description: ''
+gutenberg_issued: '2011-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+title: 'Hammer and Anvil: A Novel'
+url: http://www.gutenberg.org/ebooks/34868
