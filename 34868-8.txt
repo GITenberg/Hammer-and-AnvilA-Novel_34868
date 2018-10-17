@@ -80,8 +80,8 @@ Transcriber's Notes:
 
 
 "Such a novel as no English author with whom we are acquainted could
-hare written, and no American author except Hawthorne. What separates
-it from the multitude or American and English novels is the perfection
+have written, and no American author except Hawthorne. What separates
+it from the multitude of American and English novels is the perfection
 of its plot, and its author's insight into the souls of his
 characters.... If Germany is poorer than England, as regards the number
 of its novelists, it is richer when we consider the intellectual value
@@ -90,9 +90,9 @@ has produced, we venture to think, two writers who are equal to them in
 genius, and superior to them in the depth and spirituality of their
 art--Auerbach and Spielhagen."--_Putnam's Magazine_.
 
-"The name is suggested by a passage In Goethe, which serves as a
+"The name is suggested by a passage in Goethe, which serves as a
 motto to the book. Spielhagen means to illustrate what Goethe speaks
-of--natures not In full possession of themselves, 'who are not equal to
+of--natures not in full possession of themselves, 'who are not equal to
 any situation in life, and whom no situation satisfies'--the Hamlet of
 our latest civilization. With these he deals in a poetic, ideal
 fashion, yet also with humor, and, what is less to be expected in a
@@ -1191,7 +1191,7 @@ My father raised his arm as if to strike me, but he did not strike; his
 arm slowly descended, and with outstretched hand he pointed to the
 door:
 
-"Begone!" he said, slowly and firmly. "Leave house forever!"
+"Begone!" he said, slowly and firmly. "Leave my house forever!"
 
 I looked straight into his eyes; I was about to say something--perhaps
 "Forgive me, father; I will ask _your_ forgiveness;" but my heart lay
@@ -1666,7 +1666,7 @@ roaring and plashing of the waves breaking on the beach; a few drops of
 rain drove into my face.
 
 The stranger looked out intently at the weather. "We must be off
-presently," I heard him say to himself Then turning to me: "But now we
+presently," I heard him say to himself. Then turning to me: "But now we
 will have some supper; I am almost dying of hunger. If Pinnow prefers
 grumbling to eating, let him consult his taste. Come."
 
